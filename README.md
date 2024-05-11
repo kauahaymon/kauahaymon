@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20015
-Fork on GitHub6049
 <h1 align="center">Hi 👋, I'm Kauã Haymon</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 
