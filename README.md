@@ -2,7 +2,7 @@
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 
 ## Public Information
-- 🌱 I’m currently learning **object-oriented programming and spring boot in Java.**
+- 🌱 I’m currently learning object-oriented programming and spring boot in Java.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kauahaymon&label=Profile%20views&color=0e75b6&style=flat" alt="kauahaymon" /> </p>
 
