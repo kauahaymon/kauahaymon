@@ -1,9 +1,10 @@
-<h1 align="center">Hi! I'm Kauã Haymon</h1>
-<h3 align="center">I'm currently learning Java.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+Kau%C3%A3+Haymon)](https://www.linkedin.com/in/kauahaymon/)
+<h1 align="center"></h1>
+<h3 align="center">A passionate IT professional</h3>
 
-- I’m currently learning Java.
+- 💻 I’m currently learning Java and Cybersecurity
 
-<h3 align="left">Developmente:</h3>
+<h3 align="left">Development:</h3>
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -19,16 +20,12 @@
     <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-
-    
-    
-    
-
 </div><br/>
 
+![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauahaymon&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauahaymon&layout=compact&theme=tokyonight)
-![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauahaymon&show_icons=true&theme=tokyonight)
+
 
 <h3 align="left">Contact me:</h3>
 
