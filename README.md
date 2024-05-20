@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=26&duration=3000&pause=1005&color=F7B20E&center=true&vCenter=true&random=false&width=434&lines=Hello+there!;I'm+Kau%C3%A3+Haymon)](https://git.io/typing-svg)
 
 <h1 align="center"></h1>
-<h3 align="center">A passionate IT professional</h3>
+<h3 align="left">A passionate IT professional</h3>
 
 - 💻 I’m currently learning Java and Cybersecurity
 
