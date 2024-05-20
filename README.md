@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+I'm+Kau%C3%A3+Haymon)](https://www.linkedin.com/in/kauahaymon/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&color=95ca12&width=435&lines=print("Hi!+I'm+Kau%C3%A3+Haymon"))](https://www.linkedin.com/in/kauahaymon/)
+
+
+
 <h1 align="center"></h1>
 <h3 align="center">A passionate IT professional</h3>
 
