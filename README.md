@@ -3,7 +3,7 @@
 <h1 align="center"></h1>
 <h3 align="center">A passionate IT professional</h3>
 
-- 💻 I’m currently learning Java and Cybersecurity
+- 💻 I’m currently learning Java development and Cybersecurity
 
 <h3 align="left">Development:</h3>
 <div style="display: inline_block">
