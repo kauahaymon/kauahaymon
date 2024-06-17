@@ -2,7 +2,7 @@
 
 I'm currently pursuing a degree in Systems Analysis and Development and enhancing my skills in IT, focusing on various aspects such as programming languages, software development methodologies, cybersecurity and other related topics.
 
-- 💻 I’m currently learning **Java development**, **Cybersecurity** and **Spring Boot**.
+- 💻 I’m currently learning **Java**, **Spring Boot** and **Cybersecurity**.
 
 ## 🛠 Skills
 
