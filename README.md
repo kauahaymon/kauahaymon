@@ -39,5 +39,5 @@ I'm currently pursuing a degree in Systems Analysis and Development and enhancin
 
 ## 📫 How to reach me:
 
-- ![[LinkedIn](https://www.linkedin.com/in/yourprofile)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- ![[Email](mailto:kauahaymon@outlook.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![[LinkedIn](https://www.linkedin.com/in/yourprofile)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![[Email](mailto:kauahaymon@outlook.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
