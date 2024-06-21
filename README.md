@@ -33,10 +33,6 @@ I'm currently pursuing a degree in Systems Analysis and Development and enhancin
 - **Portuguese**: Native
 - **English**: Advanced
 
-## 🌟 Projects
-
-Check out the projects I’m working on: [JDBC DAO Managment System](https://github.com/kauahaymon/demo-dao-jdbc).
-
 ## 📈 GitHub Stats:
 
 ![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauahaymon&show_icons=true&theme=tokyonight)
