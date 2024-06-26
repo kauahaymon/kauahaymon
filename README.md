@@ -29,9 +29,9 @@ I'm currently pursuing a degree in Systems Analysis and Development and enhancin
 
 ### 📊 Stats:
 
-![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauahaymon&show_icons=true&theme=tokyonight)
+![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauahaymon&show_icons=true&theme=aura)
 
-### 💬 Languages:
+### 🌐 Languages:
 
 - **Portuguese**: Native
 - **English**: Advanced
