@@ -1,9 +1,9 @@
-# 👑 Kauã Haymon
+# 👑 Kauã Haymon 
+<img align="right" height="230px" style="padding-right:10px;" src="./img/coding.gif"/> 
+
 `Digital Craftsman`
 
-<div display: inline_block><img align="right" height="230" alt="coding" scr=".img/coding.gif"></div>
-
-I'm currently pursuing a degree in Systems Analysis and Development and enhancing my skills in IT, focusing on various aspects such as programming languages, software development methodologies, cybersecurity and other related topics.
+I'm currently pursuing a degree in Systems Analysis and Development and enhancing my skills in IT, focusing on various aspects such as programming languages, software development methodologies, cybersecurity and other related topics. 
 
 💻 Learning **Java**, **Spring Boot** and **Full-Stack Development**.
   
@@ -31,7 +31,7 @@ I'm currently pursuing a degree in Systems Analysis and Development and enhancin
 
 ### 📊 Stats:
 
-![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauahaymon&show_icons=true&theme=aura)
+![Kauã's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauahaymon&show_icons=true&theme=aura) 
 
 ### 🌐 Languages:
 
