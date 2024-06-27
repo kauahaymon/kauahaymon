@@ -2,7 +2,7 @@
 
 `Digital Craftsman`
 
-I'm currently pursuing a degree in Systems Analysis and Development and enhancing my skills in IT, aspects focused on programming languages, web development, cybersecurity and so on. I'm striving to do my best every single day to achieve a high level of expertise to solve effectively real world problems. I hope one day to look back and see how many people I've been able to help, whether as a developer or simply as a person.
+I'm currently pursuing a degree in Systems Analysis and Development and enhancing my skills in IT, focusing on aspects such as programming languages, web development, cybersecurity, and more. I'm striving to do my best every single day to achieve a high level of expertise to solve effectively real world problems. I hope one day to look back and see how many people I've been able to help, whether as a developer or simply as a person.
 
 💻 Learning **Java**, **Spring Boot** and **Full-Stack Development**.
   
