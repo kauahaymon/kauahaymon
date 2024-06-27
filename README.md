@@ -1,5 +1,4 @@
 # 👑 Kauã Haymon 
-<img align="right" height="230px" style="padding-right:10px;" src="./img/coding.gif"/> 
 
 `Digital Craftsman`
 
