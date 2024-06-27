@@ -2,7 +2,7 @@
 
 `Digital Craftsman`
 
-I'm currently pursuing a degree in Systems Analysis and Development and enhancing my skills in IT, focusing on various aspects such as programming languages, software development methodologies, cybersecurity and other related topics. 
+I'm currently pursuing a degree in Systems Analysis and Development and enhancing my skills in IT, aspects focused on programming languages, web development, cybersecurity and so on. I'm striving to do my best every single day to achieve a high level of expertise to solve effectively real world problems. I hope one day to look back and see how many people I've been able to help as developer or as person itself.
 
 💻 Learning **Java**, **Spring Boot** and **Full-Stack Development**.
   
@@ -10,7 +10,7 @@ I'm currently pursuing a degree in Systems Analysis and Development and enhancin
           <a href="https://www.linkedin.com/in/kauahaymon">
                     <img width="60px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" /></a>
           <a href="mailto:kauahaymon@outlook.com">
-                    <img width="90px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" /></a>
+                    <img width="92px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" /></a>
 
 ---
 ### 🛠 Languages and Tools
