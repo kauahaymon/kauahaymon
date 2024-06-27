@@ -1,6 +1,8 @@
 # 👑 Kauã Haymon
 `Digital Craftsman`
 
+<div display: inline_block><img align="right" height="230" alt="coding" scr=".img/coding.gif"></div>
+
 I'm currently pursuing a degree in Systems Analysis and Development and enhancing my skills in IT, focusing on various aspects such as programming languages, software development methodologies, cybersecurity and other related topics.
 
 💻 Learning **Java**, **Spring Boot** and **Full-Stack Development**.
