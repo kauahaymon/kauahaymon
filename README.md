@@ -2,7 +2,7 @@
 
 `Digital Craftsman`
 
-I'm currently pursuing a degree in Systems Analysis and Development and enhancing my skills in IT, focusing on aspects such as programming languages, web development, cybersecurity, and more. I'm striving to do my best every single day to achieve a high level of expertise to solve effectively real world problems. I hope one day to look back and see how many people I've been able to help, whether as a developer or simply as a person.
+I'm pursuing a degree in Systems Analysis and Development and enhancing my skills in software engineering, cybersecurity, and more. I do my best every single day to achieve a high level of expertise to solve effectively real world problems. 
 
 💻 Learning **Java**, **Spring Boot** and **Full-Stack Development**.
   
@@ -23,10 +23,27 @@ I'm currently pursuing a degree in Systems Analysis and Development and enhancin
 <img align="left" alt="icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />   
 <img align="left" alt="icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
 <img align="left" alt="icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-<img align="left" alt="Terminal" width="30px" style="padding-right:10px;" src="./img/terminal-dark.svg"/>         
-<br> 
+<img align="left" alt="Terminal" width="30px" style="padding-right:10px;" src="./img/terminal-dark.svg" />         
+<br>
 
 #
+
+```java
+import java.time.LocalDate;
+import java.util.*;
+
+public final class AboutMe {
+    static final String name = "Kauã Haymon";
+    static LocalDate birth = LocalDate.of(2003, 8, 13);
+    static List<String> skills = Arrays.asList("Java", "Spring Boot", "PostgreSQL", "JWT", "ORM");
+    static String position = "Back-end Engineer";
+
+    public static void main(String[] args) {
+        List<Object> about = Arrays.asList(name, birth, skills, position);
+        about.forEach(System.out::println);
+    }
+}
+```
 
 ### 📊 Stats:
 
