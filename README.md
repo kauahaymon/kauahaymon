@@ -1,18 +1,17 @@
 # 👑 Kauã Haymon 
 
-`Digital Craftsman`
+<p align="left">
+          <a href="https://www.linkedin.com/in/kauahaymon">
+                    <img width="81px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" /></a>
+          <a href="mailto:kauahaymon@outlook.com"> 
+                    <img width="188px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/kauahaymon1@gmail.com-0077B5.svg?logo=mail" /></a>
 
 I'm pursuing a degree in Systems Analysis and Development and enhancing my skills in software engineering, cybersecurity, and more. I do my best every single day to achieve a high level of expertise to solve effectively real world problems. 
 
 💻 Learning **Java**, **Spring Boot** and **Full-Stack Development**.
-  
-<p align="left">
-<!--           <a href="mailto:kauahaymon@outlook.com"> 
-                    <img width="60px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" /></a> -->
-          <a href="https://www.linkedin.com/in/kauahaymon">
-                    <img width="92px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" /></a>
 
----
+#
+  
 ### 🛠 Languages and Tools
 
 <img align="left" alt="icon" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
