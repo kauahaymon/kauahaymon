@@ -1,6 +1,6 @@
 # Hello there! I'm Haymon! 🖐️
 
-👨🏻‍💻 - I'm Back-End Developer. 
+👨🏻‍💻 - I'm a Back-End Developer. 
 
 #
   
