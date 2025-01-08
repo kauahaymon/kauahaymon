@@ -1,6 +1,7 @@
 # Hello there! I'm Haymon! 🖐️
 
-👨🏻‍💻 - I'm a Back-End Developer. 
+- 👨🏻‍💻 Back-End Developer.
+- 🎓 Associate's degree in System Analyse and Development.
 
 #
   
