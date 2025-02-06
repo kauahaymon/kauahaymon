@@ -1,7 +1,7 @@
 # Hello there! I'm Haymon! 🖐️
 
 - 👨🏻‍💻 Back-End Developer.
-- 🎓 Associate's degree in System Analyse and Development.
+- 🎓 Associate's degree in System Analyse and Development at [FMF - Wyden](https://www.wyden.com.br/).
 
 #
   
